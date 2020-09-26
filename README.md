@@ -61,5 +61,5 @@ GIF that explores the evolution of generator performance during the epochs
 
 ## Conclusions
 
-The aim of this project was to develop a face generator and a conditional face generator able to generate new samples similar to training data according to user specified attributes. A Generative Adversarial network has been developed with a resulting FID score of 23. The most eective changes done to the GAN, that allowed us to obtain these results, have been the normalization of the images in the range [-1,1] and the usage of Leaky ReLU activation function.
+The aim of this project was to develop a face generator and a conditional face generator able to generate new samples similar to training data according to user specified attributes. A Generative Adversarial network has been developed with a resulting FID score of 23. The most effective changes done to the GAN, that allowed us to obtain these results, have been the normalization of the images in the range [-1,1] and the usage of Leaky ReLU activation function.
 The conditional generator, for which the same architectures of the GAN have been used, gained in performance with a random normal kernel initializer. The FID score in the Conditional GAN has been computed by generating images with random labels taken from the CelebA dataset, and had a value of 12.
