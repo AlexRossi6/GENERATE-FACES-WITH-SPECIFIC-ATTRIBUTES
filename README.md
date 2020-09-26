@@ -15,9 +15,9 @@ The data and the attributes that have been used for the training come from the C
 ## Examples of faces conditionally generated
 
 
-![image](https://user-images.githubusercontent.com/56583448/94338520-346e4880-fff3-11ea-9a75-dc06940db63a.png)
+         ![image](https://user-images.githubusercontent.com/56583448/94338520-346e4880-fff3-11ea-9a75-dc06940db63a.png)
 
-![image](https://user-images.githubusercontent.com/56583448/94338532-641d5080-fff3-11ea-8876-3ac545741b54.png)
+         ![image](https://user-images.githubusercontent.com/56583448/94338532-641d5080-fff3-11ea-8876-3ac545741b54.png)
 
 ![image](https://user-images.githubusercontent.com/56583448/94338551-7d260180-fff3-11ea-9558-aa9bbbba1f10.png)
 
