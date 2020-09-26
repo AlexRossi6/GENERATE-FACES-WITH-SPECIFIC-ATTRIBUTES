@@ -1,4 +1,4 @@
-# Generate-faces-with-specific-attributes
+# Generate faces with specific attributes
 
 <hr>
 
