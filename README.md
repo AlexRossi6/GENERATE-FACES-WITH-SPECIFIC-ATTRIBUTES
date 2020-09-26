@@ -14,12 +14,28 @@ The data and the attributes that have been used for the training come from the C
 
 ## Examples of faces conditionally generated
 
+Young Blonde Woman
 
-         ![image](https://user-images.githubusercontent.com/56583448/94338520-346e4880-fff3-11ea-9a75-dc06940db63a.png)
+![image](https://user-images.githubusercontent.com/56583448/94338606-fe7d9400-fff3-11ea-8e75-e71ca4e67b55.png)
 
-         ![image](https://user-images.githubusercontent.com/56583448/94338532-641d5080-fff3-11ea-8876-3ac545741b54.png)
 
-![image](https://user-images.githubusercontent.com/56583448/94338551-7d260180-fff3-11ea-9558-aa9bbbba1f10.png)
+Old man with grey hair
+
+![image](https://user-images.githubusercontent.com/56583448/94338619-1a813580-fff4-11ea-84d9-b798829a8b7c.png)
+
+
+Young, attractive man with black hair, 5 o' clock shadow and smiling
+with mouth slightly open
+
+![image](https://user-images.githubusercontent.com/56583448/94338644-3a185e00-fff4-11ea-83bb-48b3dfaa9160.png)
+
+
+Old woman with blonde hair and eyeglasses
+
+![image](https://user-images.githubusercontent.com/56583448/94338661-56b49600-fff4-11ea-919c-3e7e46702a23.png)
+
+
+GIF that explores the evolution of generator performance during the epochs
 
 ![movie](https://user-images.githubusercontent.com/56583448/94338563-962eb280-fff3-11ea-94d0-f325e0a20559.gif)
 
